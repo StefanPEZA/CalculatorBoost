@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1578589283 source:c:\users\stefa\desktop\proiectip\evaluatormatematic\icon.rc
+
+1579076944 source:c:\users\stefa\desktop\proiectip\evaluatormatematic\main.cpp
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+	<thread>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<graphics.h>
+	"lib/mainLib.h"
+
+1578764533 c:\users\stefa\desktop\proiectip\evaluatormatematic\lib\mainlib.h
+	"stack.h"
+	"binaryTree.h"
+	"mathFunctions.h"
+	"variable.h"
+	"converters.h"
+
+1578338736 c:\users\stefa\desktop\proiectip\evaluatormatematic\lib\stack.h
+
+1578430324 c:\users\stefa\desktop\proiectip\evaluatormatematic\lib\binarytree.h
+
+1579081033 c:\users\stefa\desktop\proiectip\evaluatormatematic\lib\mathfunctions.h
+
+1579080946 c:\users\stefa\desktop\proiectip\evaluatormatematic\lib\variable.h
+
+1578426713 c:\users\stefa\desktop\proiectip\evaluatormatematic\lib\converters.h
+
+1578589283 source:d:\evaluatormatematic\icon.rc
+
+1578590433 source:d:\evaluatormatematic\main.cpp
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+	<thread>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<graphics.h>
+	"lib/mainLib.h"
+
+1578587482 d:\evaluatormatematic\lib\mainlib.h
+	"stack.h"
+	"binaryTree.h"
+	"mathFunctions.h"
+	"variable.h"
+	"converters.h"
+
+1578338736 d:\evaluatormatematic\lib\stack.h
+
+1578430324 d:\evaluatormatematic\lib\binarytree.h
+
+1578590599 d:\evaluatormatematic\lib\mathfunctions.h
+
+1578509631 d:\evaluatormatematic\lib\variable.h
+
+1578426713 d:\evaluatormatematic\lib\converters.h
+
